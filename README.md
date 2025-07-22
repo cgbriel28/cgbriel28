@@ -1,4 +1,7 @@
 ## Hi there 👋
+<div align="center">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cgbriel28&layout=compact&langs_count=8&theme=react&card_width=400px" />
+</div>  
 
 <!--
 **cgbriel28/cgbriel28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
