@@ -3,7 +3,7 @@
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cgbriel28&layout=compact&langs_count=8&theme=react&card_width=400px" />
 </div>  
 <div align="center"><br>
-  <img alt="C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img alt="C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg">
   <img alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>  
